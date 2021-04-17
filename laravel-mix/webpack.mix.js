@@ -22,6 +22,7 @@ mix.webpackConfig({
 });
 
 mix.vue();
+mix.copy('src/index.html','dist/index.html');
 
 globFunc.js(['src/**/*.js'],'dist/', null, {
   base: {
