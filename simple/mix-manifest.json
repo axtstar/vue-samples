@@ -1,0 +1,8 @@
+{
+    "/dist/currency.js": "/dist/currency.js",
+    "/dist/main.js": "/dist/main.js",
+    "/dist/api/shop.js": "/dist/api/shop.js",
+    "/dist/store/index.js": "/dist/store/index.js",
+    "/dist/store/modules/cart.js": "/dist/store/modules/cart.js",
+    "/dist/store/modules/products.js": "/dist/store/modules/products.js"
+}
