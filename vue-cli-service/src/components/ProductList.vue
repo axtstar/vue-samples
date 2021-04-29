@@ -1,4 +1,3 @@
-  
 <template>
   <ul>
     <li
@@ -14,7 +13,6 @@
     </li>
   </ul>
 </template>
-
 <script>
 import { mapState, mapActions } from 'vuex'
 export default {

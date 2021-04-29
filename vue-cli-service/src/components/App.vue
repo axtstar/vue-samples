@@ -6,13 +6,16 @@
     <ProductList/>
     <hr>
     <ShoppingCart/>
+    <hr>
+    <Counter/>
   </div>
 </template>
 
 <script>
 import ProductList from './ProductList.vue'
 import ShoppingCart from './ShoppingCart.vue'
+import Counter from './Counter.vue'
 export default {
-  components: { ProductList, ShoppingCart }
+  components: { ProductList, ShoppingCart, Counter }
 }
 </script>

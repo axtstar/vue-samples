@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter.vue add 1 after button click 1`] = `
+<div
+  id="counter"
+>
+  <div>
+    カウンタ
+  </div>
+   
+  <span
+    class="count"
+  >
+    0
+  </span>
+   
+  <button>
+    Increment
+  </button>
+</div>
+`;
